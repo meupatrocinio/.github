@@ -3,7 +3,7 @@
   "description": "Mp PR CI workflow template.",
   "iconName": "php-logo",
   "categories": [
-    "php"
+    "PHP"
   ],
   "filePatterns": [
     "composer.json$",
