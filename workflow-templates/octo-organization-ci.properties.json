@@ -1,0 +1,13 @@
+{
+  "name": "Mp PR Workflow",
+  "description": "Mp PR CI workflow template.",
+  "iconName": "php-logo",
+  "categories": [
+    "php"
+  ],
+  "filePatterns": [
+    "composer.json$",
+    "^Dockerfile",
+    ".*\\.md$"
+  ]
+}
